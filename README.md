@@ -1,0 +1,1 @@
+Memory game is made with vanilla Javascript. HTML and css are used for structuring and styling. This game contain a box of cards. All you need to do is flip two cards at a time and find the same images card in the cardsArray. The lower the attempts you take to match all the cards the better you are. 
